@@ -1,0 +1,6 @@
+[submodule "embeded"]
+	path = embeded
+	url = https://github.com/LaJope/ESP_region
+[submodule "backend"]
+	path = backend
+	url = https://github.com/NikMI9324/InteractiveStand
