@@ -4,3 +4,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/NikMI9324/InteractiveStand
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/UsatayaMish/IES-dashboard
